@@ -85,10 +85,6 @@ The design integrates multiple routing protocols, ensuring efficient and robust 
 - Secures traffic by permitting or denying specific traffic flows.
 - Rules are designed to ensure minimal overhead and maximum security.
 
-### Protocol Redistribution
-- Seamless integration between EIGRP and OSPF via redistribution on boundary routers.
-- Ensures end-to-end communication across zones.
-
 ---
 
 ## Steps to Recreate
@@ -138,5 +134,5 @@ The design integrates multiple routing protocols, ensuring efficient and robust 
 ---
 
 ## Author
-This project was designed and implemented by [Anas Bin Rashid].
+This project was designed and implemented by ***Anas Bin Rashid***.
 
